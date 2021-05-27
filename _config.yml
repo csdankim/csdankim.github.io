@@ -49,18 +49,28 @@ additional_links:
 about_profile_image: images/DanKim.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dan Kim and I'm a Software Developer. 
+  
   After Apple Asia-Pacific Internship (Marketing) in 2008, I decided to dive into the tech industries. After achieving a master’s degree in information systems, I built my career in various tech companies for seven years from business strategy planning. I have now developed myself as a software engineer / machine learning engineer in the Master of Computer Science graduate program at Oregon State University. I expect a chance for my business-related experience and computer science professional skills to enhance its value for your business success.
   
   I am most skilled in:
     ● AI and Data Science: Tensorflow, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, ML.NET.
+    
     ● .NET Technologies: .NET Core, C#.NET, Entity Framework Core, ASP.NET Core MVC, Dapper, ASP.NET Core API, LINQ, XML.
+    
     ● Web Technologies / Scripting: Angular 9, TypeScript, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js.
+    
     ● Database: SQL Server 2019/2017/2016/2014, Oracle 10g.
+    
     ● IDE and Tools: Visual Studio 2019/2017/2015, SSMS, VS Code, Rider, Pycharm, Clion, Vim, Emacs.
+    
     ● Testing Tools: Postman, Fiddler, NUnit, MOQ, MS test.
+    
     ● Version & Bug Control: TFS, GIT, SVN, JIRA.
+    
     ● Cloud: Azure Functions, Blob Storage, Cognitive Services, Azure Web App, Azure Pipeline CI/CD.
+    
     ● Others: Python, R, C/C++, Docker, Kubernetes.
+    
 
 
 content:
@@ -75,6 +85,7 @@ content:
           • GPA: 3.75 / 4.0
         description: | # this will include new lines to allow paragraphs
           ● Completed Courses: AI, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning, Covex/Non-Convex Optimization, Methods of Data Analysis 1 & 2, Operating System, Computer Architecture
+          
   
   - title: Personal Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -186,7 +197,9 @@ content:
           Initial target customer was Vodafone Germany, and successfully passed Vodafone’s security test and proof of concept.
         description: | # this will include new lines to allow paragraphs
           ● Conducted Market Research, User Research, User Scenario Development and Evaluation. 
+          
           ● Commercialized IoT Device Monitor/Controlling Software + Gateway + Devices as a package
+          
             
     # content:
       - layout: left
@@ -197,7 +210,9 @@ content:
           Multi-disciplinary Research Group funded by the National Research Foundation of Korea.
         description: | # this will include new lines to allow paragraphs
           ● In charge of IPTV Platform Development for Seniors, Experiment Data Analysis
+          
           ● Wrote and edited the final report for the National Research Foundation of Korea
+          
 
     # content:
       - layout: left
@@ -208,10 +223,15 @@ content:
           Did UX and Usability tests on Samsung’s global smartphones including Galaxy, Galaxy Tab, Galaxy Note. 
         description: | # this will include new lines to allow paragraphs
           ● Conducted Samsung’s global smartphone/tablet PC Usability Test and UX Improvement.
+          
           ● Developed Mobile UX Design Evaluation Measure: Simplicity, Luxuriousness, and Usability evaluation measures for Korea, North America, Europe, China, and Japan. 
+          
           ● Experiment Design, Statistical Data Analysis: A/B test, Structural Equation Modeling, Multiple-Regression, Social Network Analysis
+          
           ● Tested Smartphone Interface Usability: GUI, AUI, Touch, Voice Recognition, Gesture, User Context, Contents UI(Music, Video)
+          
           ● Developed UI Guideline: Bada OS Human Interface Guideline
+          
        
   - title: Work Experiences # Title for the section
     layout: list # Type of content section (list/text)
@@ -225,7 +245,9 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           ● Managed IoT/OTT Product Design & Development
+          
           ● In charge of Global Business Development & Planning
+          
 
     # content:
       - layout: left
@@ -237,9 +259,13 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           ● Worked on Global Business Planning: Goal 2020 Strategy Development through Business / Data Analysis
+          
           ● Supported Japan, China, India, and Australia subsidiaries
+          
           ● Co-Worked with HP APJ & IBM APJ
+          
           ● In charge of Business Model Development & Global Business Planning for Government Project (KIAT): Global Enterprise Software Marketplace
+          
     
     # content:
       - layout: left
@@ -251,7 +277,9 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           ● Responsible for Wind Energy Business
+          
           ● Analyzed Wind Power Market Data and Developed New Business Planning
+          
 
     # content:
       - layout: left
@@ -263,8 +291,11 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           ● Established Shilla Brasil company and plant
+          
           ● Negotiated with Brazil federal government and had meetings with the president of Brazil
+          
           ● Did Market analysis & finance/tax planning
+          
 
     # content:
       - layout: left
@@ -276,8 +307,11 @@ content:
         # quote: >
         description: | # this will include new lines to allow paragraphs
           ● Looked over the whole distribution channels of Apple Korea and contributed to improving the efficiency or characteristics of each channel.
+          
           ● Have practical experiences and raised business manners through participating meetings for a new promotion or the parties concerned.
+          
           ● Involved projects are "Mac campus tour" for increasing Mac Sales and research, ‘DRM Free and Digital Music Market.’
+          
 
   # - title: A Little More About Me
   #  layout: text
