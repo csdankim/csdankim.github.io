@@ -9,10 +9,10 @@ version: 2
 name: Dan Kim
 title: Software Developer / Machine Learning Engineer / Data Analyst
 email: iuxdankim@gmail.com
-website: https://csdankim.github.io
+website: csdankim.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -33,7 +33,7 @@ instagram_username: iuxd
 additional_links:
 - title: OPENKOREA
   icon: fas fa-globe
-  url: https://wiki.openkorea.org
+  url: wiki.openkorea.org
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
