@@ -51,16 +51,16 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dan Kim and I'm a Software Developer. 
   After Apple Asia-Pacific Internship (Marketing) in 2008, I decided to dive into the tech industries. After achieving a master’s degree in information systems, I built my career in various tech companies for seven years from business strategy planning. I have now developed myself as a software engineer / machine learning engineer in the Master of Computer Science graduate program at Oregon State University. I expect a chance for my business-related experience and computer science professional skills to enhance its value for your business success.
   
-  I am most skilled in: |
-        ● AI and Data Science: Tensorflow, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, ML.NET.
-        ● .NET Technologies: .NET Core, C#.NET, Entity Framework Core, ASP.NET Core MVC, Dapper, ASP.NET Core API, LINQ, XML.
-        ● Web Technologies / Scripting: Angular 9, TypeScript, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js.
-        ● Database: SQL Server 2019/2017/2016/2014, Oracle 10g.
-        ● IDE and Tools: Visual Studio 2019/2017/2015, SSMS, VS Code, Rider, Pycharm, Clion, Vim, Emacs.
-        ● Testing Tools: Postman, Fiddler, NUnit, MOQ, MS test.
-        ● Version & Bug Control: TFS, GIT, SVN, JIRA.
-        ● Cloud: Azure Functions, Blob Storage, Cognitive Services, Azure Web App, Azure Pipeline CI/CD.
-        ● Others: Python, R, C/C++, Docker, Kubernetes.
+  I am most skilled in:
+    ● AI and Data Science: Tensorflow, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, ML.NET.
+    ● .NET Technologies: .NET Core, C#.NET, Entity Framework Core, ASP.NET Core MVC, Dapper, ASP.NET Core API, LINQ, XML.
+    ● Web Technologies / Scripting: Angular 9, TypeScript, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js.
+    ● Database: SQL Server 2019/2017/2016/2014, Oracle 10g.
+    ● IDE and Tools: Visual Studio 2019/2017/2015, SSMS, VS Code, Rider, Pycharm, Clion, Vim, Emacs.
+    ● Testing Tools: Postman, Fiddler, NUnit, MOQ, MS test.
+    ● Version & Bug Control: TFS, GIT, SVN, JIRA.
+    ● Cloud: Azure Functions, Blob Storage, Cognitive Services, Azure Web App, Azure Pipeline CI/CD.
+    ● Others: Python, R, C/C++, Docker, Kubernetes.
 
 
 content:
@@ -72,9 +72,9 @@ content:
         caption: Sep. 2018 - Dec. 2020
         sub_title: Master of Computer Science
         quote: >
-            • GPA: 3.75 / 4.0
+          • GPA: 3.75 / 4.0
         description: | # this will include new lines to allow paragraphs
-            ● Completed Courses: AI, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning, Covex/Non-Convex Optimization, Methods of Data Analysis 1 & 2, Operating System, Computer Architecture
+          ● Completed Courses: AI, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning, Covex/Non-Convex Optimization, Methods of Data Analysis 1 & 2, Operating System, Computer Architecture
   
   - title: Personal Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -91,9 +91,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-            Implementing and testing the Anchor-Free algorithm and comparing its performance with two traditional Anchor-Word topic modeling algorithms, LDA and NMF, and one unsupervised learning method, Kmeans Clustering. For the performance test, 6090 tweets regarding the climate-change were used. (Python, Scikit-Learn, Pandas, Numpy, Seaborn, Matplotlib)
+          Implementing and testing the Anchor-Free algorithm and comparing its performance with two traditional Anchor-Word topic modeling algorithms, LDA and NMF, and one unsupervised learning method, Kmeans Clustering. For the performance test, 6090 tweets regarding the climate-change were used. (Python, Scikit-Learn, Pandas, Numpy, Seaborn, Matplotlib)
         description: | # this will include new lines to allow paragraphs
-            I implemented and tested the Anchor-Free algorithm and compare its performance with two traditional topic modeling algorithms, LDA and NMF, and one unsupervised learning method, Kmeans Clustering. Anchor-word topic modeling has serious scalability and identification issues. To solve this problem, Separability / Anchor-Word assumption and Sufficiently Scattered assumption were studied as explained in [1]. The problem formulation for the algorithm found that it is a non-convex problem which cannot achieve the optimal solution directly. The feasible way to solve the non-convex problem is finding an approximate solution through iteration. Based on these ideas, the Anchor-Free algorithm for topic modeling is established. For the performance test, 6090 tweets regarding the climate-change were used, and the simulation results are provided.
+          I implemented and tested the Anchor-Free algorithm and compare its performance with two traditional topic modeling algorithms, LDA and NMF, and one unsupervised learning method, Kmeans Clustering. Anchor-word topic modeling has serious scalability and identification issues. To solve this problem, Separability / Anchor-Word assumption and Sufficiently Scattered assumption were studied as explained in [1]. The problem formulation for the algorithm found that it is a non-convex problem which cannot achieve the optimal solution directly. The feasible way to solve the non-convex problem is finding an approximate solution through iteration. Based on these ideas, the Anchor-Free algorithm for topic modeling is established. For the performance test, 6090 tweets regarding the climate-change were used, and the simulation results are provided.
     # content:
       - layout: top-middle
         title: Finding Donors for Charity
@@ -107,9 +107,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-            Udacity Machine Learning Project
+          Udacity Machine Learning Project
         description: | # this will include new lines to allow paragraphs
-            Applying supervised learning techniques and analytical skills on data for the U.S. census to help a charity identify people most likely to donate to their cause. (Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn)
+          Applying supervised learning techniques and analytical skills on data for the U.S. census to help a charity identify people most likely to donate to their cause. (Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn)
     # content:
       - layout: top-middle
         title: Image Classifier Application
@@ -123,9 +123,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-            Developing code for an image classifier to recognize different species of flowers built with Pytorch, then converting it into a command-line application. The dataset contains 102 flower categories. (Python, Pytorch, PIL, Numpy, Seaborn, Matplotlib)
+          Developing code for an image classifier to recognize different species of flowers built with Pytorch, then converting it into a command-line application. The dataset contains 102 flower categories. (Python, Pytorch, PIL, Numpy, Seaborn, Matplotlib)
         description: | # this will include new lines to allow paragraphs
-            In this project, I first developed code for an image classifier built with PyTorch, then converted it into a command line application. The image classifier to recognize different species of flowers. Dataset contains 102 flower categories.
+          In this project, I first developed code for an image classifier built with PyTorch, then converted it into a command line application. The image classifier to recognize different species of flowers. Dataset contains 102 flower categories.
     # content:
       - layout: top-middle
         title: Implementing RL algorithms with Ray Framework in Intel AI DevCloud
@@ -139,9 +139,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-            OSU Reinforcement Learning Class Projects
+          OSU Reinforcement Learning Class Projects
         description: | # this will include new lines to allow paragraphs
-            Using the gym’s FrozenLake game environment as the Markov Decision Processes, Synchronous Value Iteration, Q-Learning and SARSA, and Deep Q-Network were applied in Ray distributed framework. The experiments were conducted in Intel’s AI DevCloud. (Python, Pytorch, Ray, Gym, Numpy)
+          Using the gym’s FrozenLake game environment as the Markov Decision Processes, Synchronous Value Iteration, Q-Learning and SARSA, and Deep Q-Network were applied in Ray distributed framework. The experiments were conducted in Intel’s AI DevCloud. (Python, Pytorch, Ray, Gym, Numpy)
     # content:
       - layout: top-middle
         title: Cipher / Decipher Katakana and English
@@ -155,9 +155,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-            OSU Natual Langauge Processing Class Projects
+          OSU Natual Langauge Processing Class Projects
         description: | # this will include new lines to allow paragraphs
-            Following Kevin Knight’s tradition, Japanese KATAKANA and English are used to demonstrate the linguistic diversity and to illustrate transliteration and translation. For this project NLP’s modern quantitative techniques and statistical methods, dynamic programming algorithms (Viterbi, CKY, Forward-Backward, Inside-Outside, and Beam Search), and machine learning and deep learning techniques (EM, RNN) were applied. (Python, Pytorch, Carmel) 
+          Following Kevin Knight’s tradition, Japanese KATAKANA and English are used to demonstrate the linguistic diversity and to illustrate transliteration and translation. For this project NLP’s modern quantitative techniques and statistical methods, dynamic programming algorithms (Viterbi, CKY, Forward-Backward, Inside-Outside, and Beam Search), and machine learning and deep learning techniques (EM, RNN) were applied. (Python, Pytorch, Carmel) 
     # content:
       - layout: top-middle
         title: IDA*, RBFS, and MCTS for Sokoban Game
@@ -183,10 +183,10 @@ content:
         caption: Oct. 2016 - Aug. 2017
         sub_title: Product Manager, Innopia Technologies, Inc.
         quote: >
-            Initial target customer was Vodafone Germany, and successfully passed Vodafone’s security test and proof of concept.
+          Initial target customer was Vodafone Germany, and successfully passed Vodafone’s security test and proof of concept.
         description: | # this will include new lines to allow paragraphs
-            ● Conducted Market Research, User Research, User Scenario Development and Evaluation. 
-            ● Commercialized IoT Device Monitor/Controlling Software + Gateway + Devices as a package
+          ● Conducted Market Research, User Research, User Scenario Development and Evaluation. 
+          ● Commercialized IoT Device Monitor/Controlling Software + Gateway + Devices as a package
             
     # content:
       - layout: left
@@ -194,10 +194,10 @@ content:
         caption: May 2009 - Dec. 2009
         sub_title: Lead Student Researcher, Yonsei Univ. HCI Research Group
         quote: >
-            Multi-disciplinary Research Group funded by the National Research Foundation of Korea.
+          Multi-disciplinary Research Group funded by the National Research Foundation of Korea.
         description: | # this will include new lines to allow paragraphs
-            ● In charge of IPTV Platform Development for Seniors, Experiment Data Analysis
-            ● Wrote and edited the final report for the National Research Foundation of Korea
+          ● In charge of IPTV Platform Development for Seniors, Experiment Data Analysis
+          ● Wrote and edited the final report for the National Research Foundation of Korea
 
     # content:
       - layout: left
@@ -205,13 +205,13 @@ content:
         caption: Oct. 2009 - May 2010
         sub_title: Researcher, Yonsei Univ. UXLab
         quote: >
-            Did UX and Usability tests on Samsung’s global smartphones including Galaxy, Galaxy Tab, Galaxy Note. 
+          Did UX and Usability tests on Samsung’s global smartphones including Galaxy, Galaxy Tab, Galaxy Note. 
         description: | # this will include new lines to allow paragraphs
-            ● Conducted Samsung’s global smartphone/tablet PC Usability Test and UX Improvement.
-            ● Developed Mobile UX Design Evaluation Measure: Simplicity, Luxuriousness, and Usability evaluation measures for Korea, North America, Europe, China, and Japan. 
-            ● Experiment Design, Statistical Data Analysis: A/B test, Structural Equation Modeling, Multiple-Regression, Social Network Analysis
-            ● Tested Smartphone Interface Usability: GUI, AUI, Touch, Voice Recognition, Gesture, User Context, Contents UI(Music, Video)
-            ● Developed UI Guideline: Bada OS Human Interface Guideline
+          ● Conducted Samsung’s global smartphone/tablet PC Usability Test and UX Improvement.
+          ● Developed Mobile UX Design Evaluation Measure: Simplicity, Luxuriousness, and Usability evaluation measures for Korea, North America, Europe, China, and Japan. 
+          ● Experiment Design, Statistical Data Analysis: A/B test, Structural Equation Modeling, Multiple-Regression, Social Network Analysis
+          ● Tested Smartphone Interface Usability: GUI, AUI, Touch, Voice Recognition, Gesture, User Context, Contents UI(Music, Video)
+          ● Developed UI Guideline: Bada OS Human Interface Guideline
        
   - title: Work Experiences # Title for the section
     layout: list # Type of content section (list/text)
@@ -224,8 +224,8 @@ content:
         caption: Aug. 2016 - Aug. 2017
         # quote: >
         description: | # this will include new lines to allow paragraphs
-            ● Managed IoT/OTT Product Design & Development
-            ● In charge of Global Business Development & Planning
+          ● Managed IoT/OTT Product Design & Development
+          ● In charge of Global Business Development & Planning
 
     # content:
       - layout: left
@@ -236,10 +236,10 @@ content:
         caption: May 2015 - Dec. 2015
         # quote: >
         description: | # this will include new lines to allow paragraphs
-            ● Worked on Global Business Planning: Goal 2020 Strategy Development through Business / Data Analysis
-            ● Supported Japan, China, India, and Australia subsidiaries
-            ● Co-Worked with HP APJ & IBM APJ
-            ● In charge of Business Model Development & Global Business Planning for Government Project (KIAT): Global Enterprise Software Marketplace
+          ● Worked on Global Business Planning: Goal 2020 Strategy Development through Business / Data Analysis
+          ● Supported Japan, China, India, and Australia subsidiaries
+          ● Co-Worked with HP APJ & IBM APJ
+          ● In charge of Business Model Development & Global Business Planning for Government Project (KIAT): Global Enterprise Software Marketplace
     
     # content:
       - layout: left
@@ -250,8 +250,8 @@ content:
         caption: Feb. 2012 - Apr. 2015
         # quote: >
         description: | # this will include new lines to allow paragraphs
-            ● Responsible for Wind Energy Business
-            ● Analyzed Wind Power Market Data and Developed New Business Planning
+          ● Responsible for Wind Energy Business
+          ● Analyzed Wind Power Market Data and Developed New Business Planning
 
     # content:
       - layout: left
@@ -262,9 +262,9 @@ content:
         caption: May 2013 - Dec. 2014
         # quote: >
         description: | # this will include new lines to allow paragraphs
-            ● Established Shilla Brasil company and plant
-            ● Negotiated with Brazil federal government and had meetings with the president of Brazil
-            ● Did Market analysis & finance/tax planning
+          ● Established Shilla Brasil company and plant
+          ● Negotiated with Brazil federal government and had meetings with the president of Brazil
+          ● Did Market analysis & finance/tax planning
 
     # content:
       - layout: left
@@ -275,9 +275,9 @@ content:
         caption: Jul. 2008 - Aug. 2008
         # quote: >
         description: | # this will include new lines to allow paragraphs
-            ● Looked over the whole distribution channels of Apple Korea and contributed to improving the efficiency or characteristics of each channel.
-            ● Have practical experiences and raised business manners through participating meetings for a new promotion or the parties concerned.
-            ● Involved projects are "Mac campus tour" for increasing Mac Sales and research, ‘DRM Free and Digital Music Market.’
+          ● Looked over the whole distribution channels of Apple Korea and contributed to improving the efficiency or characteristics of each channel.
+          ● Have practical experiences and raised business manners through participating meetings for a new promotion or the parties concerned.
+          ● Involved projects are "Mac campus tour" for increasing Mac Sales and research, ‘DRM Free and Digital Music Market.’
 
   # - title: A Little More About Me
   #  layout: text
