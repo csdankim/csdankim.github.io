@@ -77,7 +77,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             ● Completed Courses: AI, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning, Covex/Non-Convex Optimization, Methods of Data Analysis 1 & 2, Operating System, Computer Architecture
   
-  - title: Projects # Title for the section
+  - title: Personal Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -176,7 +176,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           We implemented IDA*, RBFS and MCTS in order to solve Sokoban game which is the well-known single player game. Sokoban game is a big challenge in artificial intelligence study due to its problem complexity. So, we had to apply heuristic functions and deadlock detectors. All algorithms solved problems, but their performances are, of course, different. The result of this experiment shows the possibility to improve algorithms further by considering specific conditions of the environment of the game.
          
-  - title: Research and Project # Title for the section
+  - title: Research and Project Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -214,7 +214,7 @@ content:
             ● Tested Smartphone Interface Usability: GUI, AUI, Touch, Voice Recognition, Gesture, User Context, Contents UI(Music, Video)
             ● Developed UI Guideline: Bada OS Human Interface Guideline
        
-  - title: Work Experience # Title for the section
+  - title: Work Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
