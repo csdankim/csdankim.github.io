@@ -1,39 +1,39 @@
 # Site
-repository: sproogen/resume-theme
+repository: csdankim/csdankim.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Dan Kim
+title: Software Developer / Machine Learning Engineer / Data Analyst
+email: iuxdankim@gmail.com
+website: https://csdankim.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username: csdankim
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: csdankim
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: iuxd
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: OPENKOREA
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://wiki.openkorea.org
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,59 +46,238 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/DanKim.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Dan Kim and I'm a Software Developer. 
+  After Apple Asia-Pacific Internship (Marketing) in 2008, I decided to dive into the tech industries. After achieving a master’s degree in information systems, I built my career in various tech companies for seven years from business strategy planning. I have now developed myself as a software engineer / machine learning engineer in the Master of Computer Science graduate program at Oregon State University. I expect a chance for my business-related experience and computer science professional skills to enhance its value for your business success.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in:
+        ● AI and Data Science: Tensorflow, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, ML.NET
+        ● .NET Technologies: .NET Core, C#.NET, Entity Framework Core, ASP.NET Core MVC, Dapper, ASP.NET Core API, LINQ, XML.
+        ● Web Technologies / Scripting: Angular 9, TypeScript, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js
+        ● Database: SQL Server 2019/2017/2016/2014, Oracle 10g.
+        ● IDE and Tools: Visual Studio 2019/2017/2015, SSMS, VS Code, Rider, Pycharm, Clion, Vim, Emacs
+        ● Testing Tools: Postman, Fiddler, NUnit, MOQ, MS test.
+        ● Version & Bug Control: TFS, GIT, SVN, JIRA
+        ● Cloud: Azure Functions, Blob Storage, Cognitive Services, Azure Web App, Azure Pipeline CI/CD
+        ● Others: Python, R, C/C++, Docker, Kubernetes
+
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Oregon State University
+        caption: Sep. 2018 - Dec. 2020
+        sub_title: Master of Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+            • GPA: 3.75 / 4.0
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+            • Completed Courses: AI, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning, Covex/Non-Convex Optimization, Methods of Data Analysis 1 & 2, Operating System, Computer Architecture
+  
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Topic Modeling by Solving Non-Convex Problem
+        link: github.com/csdankim/CVX_OPT
+        # link_text: Project Website
+        additional_links:
+          - title: CVX_OPT
+            icon: fab fa-github
+            url: github.com/csdankim/CVX_OPT
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+            Implementing and testing the Anchor-Free algorithm and comparing its performance with two traditional Anchor-Word topic modeling algorithms, LDA and NMF, and one unsupervised learning method, Kmeans Clustering. For the performance test, 6090 tweets regarding the climate-change were used. (Python, Scikit-Learn, Pandas, Numpy, Seaborn, Matplotlib)
+        description: | # this will include new lines to allow paragraphs
+            I implemented and tested the Anchor-Free algorithm and compare its performance with two traditional topic modeling algorithms, LDA and NMF, and one unsupervised learning method, Kmeans Clustering. Anchor-word topic modeling has serious scalability and identification issues. To solve this problem, Separability / Anchor-Word assumption and Sufficiently Scattered assumption were studied as explained in [1]. The problem formulation for the algorithm found that it is a non-convex problem which cannot achieve the optimal solution directly. The feasible way to solve the non-convex problem is finding an approximate solution through iteration. Based on these ideas, the Anchor-Free algorithm for topic modeling is established. For the performance test, 6090 tweets regarding the climate-change were used, and the simulation results are provided.
+    content:
+      - layout: top-middle
+        title: Finding Donors for Charity
+        link: github.com/csdankim/finding_donors_charityML
+        # link_text: Project Website
+        additional_links:
+          - title: finding_donors_charityML
+            icon: fab fa-github
+            url: github.com/csdankim/finding_donors_charityML
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+            Udacity Machine Learning Project
+        description: | # this will include new lines to allow paragraphs
+            Applying supervised learning techniques and analytical skills on data for the U.S. census to help a charity identify people most likely to donate to their cause. (Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn)
+    content:
+      - layout: top-middle
+        title: Image Classifier Application
+        link: github.com/csdankim/image_classifier
+        # link_text: Project Website
+        additional_links:
+          - title: image_classifier
+            icon: fab fa-github
+            url: github.com/csdankim/image_classifier
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+            Developing code for an image classifier to recognize different species of flowers built with Pytorch, then converting it into a command-line application. The dataset contains 102 flower categories. (Python, Pytorch, PIL, Numpy, Seaborn, Matplotlib)
+        description: | # this will include new lines to allow paragraphs
+            In this project, I first developed code for an image classifier built with PyTorch, then converted it into a command line application. The image classifier to recognize different species of flowers. Dataset contains 102 flower categories.
+    content:
+      - layout: top-middle
+        title: Implementing RL algorithms with Ray Framework in Intel AI DevCloud
+        link: github.com/csdankim/Intelli_Agent_Decision_Making
+        # link_text: Project Website
+        additional_links:
+          - title: Intelli_Agent_Decision_Making 
+            icon: fab fa-github
+            url: github.com/csdankim/Intelli_Agent_Decision_Making
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+            OSU Reinforcement Learning Class Projects
+        description: | # this will include new lines to allow paragraphs
+            Using the gym’s FrozenLake game environment as the Markov Decision Processes, Synchronous Value Iteration, Q-Learning and SARSA, and Deep Q-Network were applied in Ray distributed framework. The experiments were conducted in Intel’s AI DevCloud. (Python, Pytorch, Ray, Gym, Numpy)
+    content:
+      - layout: top-middle
+        title: Cipher / Decipher Katakana and English
+        link: github.com/csdankim/NLP_KATAKANA_ENG
+        # link_text: Project Website
+        additional_links:
+          - title: NLP_KATAKANA_ENG 
+            icon: fab fa-github
+            url: github.com/csdankim/NLP_KATAKANA_ENG
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+            OSU Natual Langauge Processing Class Projects
+        description: | # this will include new lines to allow paragraphs
+            Following Kevin Knight’s tradition, Japanese KATAKANA and English are used to demonstrate the linguistic diversity and to illustrate transliteration and translation. For this project NLP’s modern quantitative techniques and statistical methods, dynamic programming algorithms (Viterbi, CKY, Forward-Backward, Inside-Outside, and Beam Search), and machine learning and deep learning techniques (EM, RNN) were applied. (Python, Pytorch, Carmel) 
+    content:
+      - layout: top-middle
+        title: IDA*, RBFS, and MCTS for Sokoban Game
+        link: github.com/csdankim/MCTS_Sokoban
+        # link_text: Project Website
+        additional_links:
+          - title:  MCTS_Sokoban
+            icon: fab fa-github
+            url: github.com/csdankim/MCTS_Sokoban
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Applying state of the art AI search algorithms to solve the Sokoban game automatically. Since Sokoban game itself is quite challenging due to its problem complexity, additionally, heuristic functions and deadlock detectors are applied.
+        description: | # this will include new lines to allow paragraphs
+          We implemented IDA*, RBFS and MCTS in order to solve Sokoban game which is the well-known single player game. Sokoban game is a big challenge in artificial intelligence study due to its problem complexity. So, we had to apply heuristic functions and deadlock detectors. All algorithms solved problems, but their performances are, of course, different. The result of this experiment shows the possibility to improve algorithms further by considering specific conditions of the environment of the game.
+         
+  - title: Research and Project # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: IoT Smart Home Package for B2B Business
+        caption: Oct. 2016 - Aug. 2017
+        sub_title: Product Manager, Innopia Technologies, Inc.
+        quote: >
+            Initial target customer was Vodafone Germany, and successfully passed Vodafone’s security test and proof of concept.
+        description: | # this will include new lines to allow paragraphs
+            ● Conducted Market Research, User Research, User Scenario Development and Evaluation. 
+            ● Commercialized IoT Device Monitor/Controlling Software + Gateway + Devices as a package
+            
+    content:
+      - layout: left
+        title: Human-Centered Social Computing 
+        caption: May 2009 - Dec. 2009
+        sub_title: Lead Student Researcher, Yonsei Univ. HCI Research Group
+        quote: >
+            Multi-disciplinary Research Group funded by the National Research Foundation of Korea.
+        description: | # this will include new lines to allow paragraphs
+            ● In charge of IPTV Platform Development for Seniors, Experiment Data Analysis
+            ● Wrote and edited the final report for the National Research Foundation of Korea
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    content:
+      - layout: left
+        title: Samsung Smartphone Usability Innovation
+        caption: Oct. 2009 - May 2010
+        sub_title: Researcher, Yonsei Univ. UXLab
+        quote: >
+            Did UX and Usability tests on Samsung’s global smartphones including Galaxy, Galaxy Tab, Galaxy Note. 
+        description: | # this will include new lines to allow paragraphs
+            ● Conducted Samsung’s global smartphone/tablet PC Usability Test and UX Improvement.
+            ● Developed Mobile UX Design Evaluation Measure: Simplicity, Luxuriousness, and Usability evaluation measures for Korea, North America, Europe, China, and Japan. 
+            ● Experiment Design, Statistical Data Analysis: A/B test, Structural Equation Modeling, Multiple-Regression, Social Network Analysis
+            ● Tested Smartphone Interface Usability: GUI, AUI, Touch, Voice Recognition, Gesture, User Context, Contents UI(Music, Video)
+            ● Developed UI Guideline: Bada OS Human Interface Guideline
+       
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Innopia Technologies, Inc.
+        link: innopia.co.kr/en/
+        # link_text: boringcompany.com
+        sub_title: Strategic Planning Manager, Business Analyst
+        caption: Aug. 2016 - Aug. 2017
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+            ● Managed IoT/OTT Product Design & Development
+            ● In charge of Global Business Development & Planning
+
+    content:
+      - layout: left
+        title: TmaxSoft
+        link: tmaxsoft.com
+        # link_text: boringcompany.com
+        sub_title: Assistant Manager, Global Business Planning, Business Analyst
+        caption: May 2015 - Dec. 2015
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+            ● Worked on Global Business Planning: Goal 2020 Strategy Development through Business / Data Analysis
+            ● Supported Japan, China, India, and Australia subsidiaries
+            ● Co-Worked with HP APJ & IBM APJ
+            ● In charge of Business Model Development & Global Business Planning for Government Project (KIAT): Global Enterprise Software Marketplace
+    
+    content:
+      - layout: left
+        title: Shilla Corporation
+        link: shillacorp.co.kr/new2/en/eindex4.htm
+        # link_text: boringcompany.com
+        sub_title: Assistant Manager, Global Business, Business Analyst
+        caption: Feb. 2012 - Apr. 2015
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+            ● Responsible for Wind Energy Business
+            ● Analyzed Wind Power Market Data and Developed New Business Planning
+
+    content:
+      - layout: left
+        title: Shilla Brasil
+        link: shillacorp.co.kr/new2/br/eindex4.htm
+        # link_text: boringcompany.com
+        sub_title: President & Project Manager
+        caption: May 2013 - Dec. 2014
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+            ● Established Shilla Brasil company and plant
+            ● Negotiated with Brazil federal government and had meetings with the president of Brazil
+            ● Did Market analysis & finance/tax planning
+
+    content:
+      - layout: left
+        title: Apple
+        link: apple.com
+        # link_text: boringcompany.com
+        sub_title: Internship, Sales, Marketing, and PR. Asia-Pacific HQ
+        caption: Jul. 2008 - Aug. 2008
+        # quote: >
+        description: | # this will include new lines to allow paragraphs
+            ● Looked over the whole distribution channels of Apple Korea and contributed to improving the efficiency or characteristics of each channel.
+            ● Have practical experiences and raised business manners through participating meetings for a new promotion or the parties concerned.
+            ● Involved projects are "Mac campus tour" for increasing Mac Sales and research, ‘DRM Free and Digital Music Market.’
 
   - title: A Little More About Me
     layout: text
@@ -113,7 +292,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
