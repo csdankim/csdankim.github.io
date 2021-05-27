@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dan Kim and I'm a Software Developer. 
   After Apple Asia-Pacific Internship (Marketing) in 2008, I decided to dive into the tech industries. After achieving a master’s degree in information systems, I built my career in various tech companies for seven years from business strategy planning. I have now developed myself as a software engineer / machine learning engineer in the Master of Computer Science graduate program at Oregon State University. I expect a chance for my business-related experience and computer science professional skills to enhance its value for your business success.
 
-  I am most skilled in:
+  I am most skilled in: | # this will include new lines to allow paragraphs
         ● AI and Data Science: Tensorflow, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, ML.NET
         ● .NET Technologies: .NET Core, C#.NET, Entity Framework Core, ASP.NET Core MVC, Dapper, ASP.NET Core API, LINQ, XML.
         ● Web Technologies / Scripting: Angular 9, TypeScript, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js
@@ -94,7 +94,7 @@ content:
             Implementing and testing the Anchor-Free algorithm and comparing its performance with two traditional Anchor-Word topic modeling algorithms, LDA and NMF, and one unsupervised learning method, Kmeans Clustering. For the performance test, 6090 tweets regarding the climate-change were used. (Python, Scikit-Learn, Pandas, Numpy, Seaborn, Matplotlib)
         description: | # this will include new lines to allow paragraphs
             I implemented and tested the Anchor-Free algorithm and compare its performance with two traditional topic modeling algorithms, LDA and NMF, and one unsupervised learning method, Kmeans Clustering. Anchor-word topic modeling has serious scalability and identification issues. To solve this problem, Separability / Anchor-Word assumption and Sufficiently Scattered assumption were studied as explained in [1]. The problem formulation for the algorithm found that it is a non-convex problem which cannot achieve the optimal solution directly. The feasible way to solve the non-convex problem is finding an approximate solution through iteration. Based on these ideas, the Anchor-Free algorithm for topic modeling is established. For the performance test, 6090 tweets regarding the climate-change were used, and the simulation results are provided.
-    content:
+    # content:
       - layout: top-middle
         title: Finding Donors for Charity
         link: github.com/csdankim/finding_donors_charityML
@@ -110,7 +110,7 @@ content:
             Udacity Machine Learning Project
         description: | # this will include new lines to allow paragraphs
             Applying supervised learning techniques and analytical skills on data for the U.S. census to help a charity identify people most likely to donate to their cause. (Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn)
-    content:
+    # content:
       - layout: top-middle
         title: Image Classifier Application
         link: github.com/csdankim/image_classifier
@@ -126,7 +126,7 @@ content:
             Developing code for an image classifier to recognize different species of flowers built with Pytorch, then converting it into a command-line application. The dataset contains 102 flower categories. (Python, Pytorch, PIL, Numpy, Seaborn, Matplotlib)
         description: | # this will include new lines to allow paragraphs
             In this project, I first developed code for an image classifier built with PyTorch, then converted it into a command line application. The image classifier to recognize different species of flowers. Dataset contains 102 flower categories.
-    content:
+    # content:
       - layout: top-middle
         title: Implementing RL algorithms with Ray Framework in Intel AI DevCloud
         link: github.com/csdankim/Intelli_Agent_Decision_Making
@@ -142,7 +142,7 @@ content:
             OSU Reinforcement Learning Class Projects
         description: | # this will include new lines to allow paragraphs
             Using the gym’s FrozenLake game environment as the Markov Decision Processes, Synchronous Value Iteration, Q-Learning and SARSA, and Deep Q-Network were applied in Ray distributed framework. The experiments were conducted in Intel’s AI DevCloud. (Python, Pytorch, Ray, Gym, Numpy)
-    content:
+    # content:
       - layout: top-middle
         title: Cipher / Decipher Katakana and English
         link: github.com/csdankim/NLP_KATAKANA_ENG
@@ -158,7 +158,7 @@ content:
             OSU Natual Langauge Processing Class Projects
         description: | # this will include new lines to allow paragraphs
             Following Kevin Knight’s tradition, Japanese KATAKANA and English are used to demonstrate the linguistic diversity and to illustrate transliteration and translation. For this project NLP’s modern quantitative techniques and statistical methods, dynamic programming algorithms (Viterbi, CKY, Forward-Backward, Inside-Outside, and Beam Search), and machine learning and deep learning techniques (EM, RNN) were applied. (Python, Pytorch, Carmel) 
-    content:
+    # content:
       - layout: top-middle
         title: IDA*, RBFS, and MCTS for Sokoban Game
         link: github.com/csdankim/MCTS_Sokoban
@@ -188,7 +188,7 @@ content:
             ● Conducted Market Research, User Research, User Scenario Development and Evaluation. 
             ● Commercialized IoT Device Monitor/Controlling Software + Gateway + Devices as a package
             
-    content:
+    # content:
       - layout: left
         title: Human-Centered Social Computing 
         caption: May 2009 - Dec. 2009
@@ -199,7 +199,7 @@ content:
             ● In charge of IPTV Platform Development for Seniors, Experiment Data Analysis
             ● Wrote and edited the final report for the National Research Foundation of Korea
 
-    content:
+    # content:
       - layout: left
         title: Samsung Smartphone Usability Innovation
         caption: Oct. 2009 - May 2010
@@ -227,7 +227,7 @@ content:
             ● Managed IoT/OTT Product Design & Development
             ● In charge of Global Business Development & Planning
 
-    content:
+    # content:
       - layout: left
         title: TmaxSoft
         link: tmaxsoft.com
@@ -241,7 +241,7 @@ content:
             ● Co-Worked with HP APJ & IBM APJ
             ● In charge of Business Model Development & Global Business Planning for Government Project (KIAT): Global Enterprise Software Marketplace
     
-    content:
+    # content:
       - layout: left
         title: Shilla Corporation
         link: shillacorp.co.kr/new2/en/eindex4.htm
@@ -253,7 +253,7 @@ content:
             ● Responsible for Wind Energy Business
             ● Analyzed Wind Power Market Data and Developed New Business Planning
 
-    content:
+    # content:
       - layout: left
         title: Shilla Brasil
         link: shillacorp.co.kr/new2/br/eindex4.htm
@@ -266,7 +266,7 @@ content:
             ● Negotiated with Brazil federal government and had meetings with the president of Brazil
             ● Did Market analysis & finance/tax planning
 
-    content:
+    # content:
       - layout: left
         title: Apple
         link: apple.com
