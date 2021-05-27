@@ -50,7 +50,7 @@ about_profile_image: images/DanKim.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dan Kim and I'm a Software Developer. 
   After Apple Asia-Pacific Internship (Marketing) in 2008, I decided to dive into the tech industries. After achieving a master’s degree in information systems, I built my career in various tech companies for seven years from business strategy planning. I have now developed myself as a software engineer / machine learning engineer in the Master of Computer Science graduate program at Oregon State University. I expect a chance for my business-related experience and computer science professional skills to enhance its value for your business success.
-
+  
   I am most skilled in:
     AI and Data Science: Tensorflow, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, ML.NET
     .NET Technologies: .NET Core, C#.NET, Entity Framework Core, ASP.NET Core MVC, Dapper, ASP.NET Core API, LINQ, XML.
