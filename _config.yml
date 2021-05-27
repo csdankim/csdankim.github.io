@@ -16,10 +16,10 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username: csdankim
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: csdankim
+github_username: csdankim
 # flickr_username: jekyll
 instagram_username: iuxd
 # linkedin_username: jameswgrant
@@ -51,16 +51,17 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dan Kim and I'm a Software Developer. 
   After Apple Asia-Pacific Internship (Marketing) in 2008, I decided to dive into the tech industries. After achieving a master’s degree in information systems, I built my career in various tech companies for seven years from business strategy planning. I have now developed myself as a software engineer / machine learning engineer in the Master of Computer Science graduate program at Oregon State University. I expect a chance for my business-related experience and computer science professional skills to enhance its value for your business success.
   
+  
   I am most skilled in:
-    AI and Data Science: Tensorflow, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, ML.NET
-    .NET Technologies: .NET Core, C#.NET, Entity Framework Core, ASP.NET Core MVC, Dapper, ASP.NET Core API, LINQ, XML.
-    Web Technologies / Scripting: Angular 9, TypeScript, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js
-    Database: SQL Server 2019/2017/2016/2014, Oracle 10g.
-    IDE and Tools: Visual Studio 2019/2017/2015, SSMS, VS Code, Rider, Pycharm, Clion, Vim, Emacs
-    Testing Tools: Postman, Fiddler, NUnit, MOQ, MS test.
-    Version & Bug Control: TFS, GIT, SVN, JIRA
-    Cloud: Azure Functions, Blob Storage, Cognitive Services, Azure Web App, Azure Pipeline CI/CD
-    Others: Python, R, C/C++, Docker, Kubernetes
+    ● AI and Data Science: Tensorflow, Pytorch, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, ML.NET
+    ● .NET Technologies: .NET Core, C#.NET, Entity Framework Core, ASP.NET Core MVC, Dapper, ASP.NET Core API, LINQ, XML.
+    ● Web Technologies / Scripting: Angular 9, TypeScript, HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js
+    ● Database: SQL Server 2019/2017/2016/2014, Oracle 10g.
+    ● IDE and Tools: Visual Studio 2019/2017/2015, SSMS, VS Code, Rider, Pycharm, Clion, Vim, Emacs
+    ● Testing Tools: Postman, Fiddler, NUnit, MOQ, MS test.
+    ● Version & Bug Control: TFS, GIT, SVN, JIRA
+    ● Cloud: Azure Functions, Blob Storage, Cognitive Services, Azure Web App, Azure Pipeline CI/CD
+    ● Others: Python, R, C/C++, Docker, Kubernetes
 
 
 content:
@@ -74,7 +75,7 @@ content:
         quote: >
             • GPA: 3.75 / 4.0
         description: | # this will include new lines to allow paragraphs
-            • Completed Courses: AI, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning, Covex/Non-Convex Optimization, Methods of Data Analysis 1 & 2, Operating System, Computer Architecture
+            ● Completed Courses: AI, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning, Covex/Non-Convex Optimization, Methods of Data Analysis 1 & 2, Operating System, Computer Architecture
   
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -279,17 +280,17 @@ content:
             ● Have practical experiences and raised business manners through participating meetings for a new promotion or the parties concerned.
             ● Involved projects are "Mac campus tour" for increasing Mac Sales and research, ‘DRM Free and Digital Music Market.’
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  # - title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+  #    Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #    - Rock climbing
+  #    - Gaming
+  #    - Knitting
+  #    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  #    Look at this cool image  
+  #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
