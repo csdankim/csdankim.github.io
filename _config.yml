@@ -69,7 +69,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Oregon State University
+        title: Oregon State Univ.
         caption: Sep. 2018 - Dec. 2020
         sub_title: Master of Computer Science
         quote: >
@@ -218,7 +218,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Innopia Technologies, Inc.
+        title: Innopia Technologies
         link: innopia.co.kr/en/
         # link_text: boringcompany.com
         sub_title: Strategic Planning Manager, Business Analyst
